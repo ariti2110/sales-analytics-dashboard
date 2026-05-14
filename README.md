@@ -27,24 +27,22 @@ This project presents business insights through an interactive dashboard interfa
 - Raw data exploration view[web:206][web:210]
 
 ---
-
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/ss1.png)
+![Main Dashboard](./screenshots/ss1.png)
 
 ### Sales Trend View
-![Sales Trend View](screenshots/ss2.png)
+![Sales Trend View](./screenshots/ss2.png)
 
 ### Product Analysis
-![Product Analysis](screenshots/ss3.png)
+![Product Analysis](./screenshots/ss3.png)
 
 ### Regional Analysis
-![Regional Analysis](screenshots/ss4.png)
+![Regional Analysis](./screenshots/ss4.png)
 
 ### Raw Data View
-![Raw Data View](screenshots/ss5.png)
-
+![Raw Data View](./screenshots/ss5.png)
 ---
 
 ## Tech Stack
